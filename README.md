@@ -60,7 +60,7 @@
 
 <div align="center">
 
-🔒 **Nota:** Muitos dos meus projetos mais recentes envolvem tecnologias proprietárias, 
+🔒 **Nota:** Muitos dos meus projetos mais recentes ainda estão em desenvolimeno, 
 portanto estão em repositórios privados. 
 Os projetos públicos aqui representam meu trabalho open-source e estudos.
 
