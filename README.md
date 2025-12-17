@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img src="https://github.com/seu-usuario/seu-usuario/blob/main/banner.gif?raw=true" width="100%" alt="Banner">
-
-<!-- Status animado -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+👋;+Eu+sou+Heitor!;" />
-</h3>
-
 <!-- Badges interativas -->
 <div align="center">
  
