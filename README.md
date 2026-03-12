@@ -55,7 +55,7 @@ class Skills extends Desenvolvedor {
 
 ### FrameWorks
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td valign="top" width="30%">
       <strong>🐘 PHP</strong><br><br>
@@ -87,5 +87,9 @@ class Skills extends Desenvolvedor {
 ### 🚀 Projetos em Destaque
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=mine-clone-python&theme=github_dark&title_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=MICApublic&theme=github_dark&title_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=PowerIONpublic&theme=github_dark&title_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=Webview-Framework&theme=github_dark&title_color=00ff99" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=php-imageboard&theme=github_dark&title_color=00ff99" />
 </div>
+
