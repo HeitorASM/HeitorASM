@@ -10,7 +10,7 @@ Eu sou desenvolvedor FullStack
 
 **Minhas_linguagens**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -83,13 +83,3 @@ class Skills extends Desenvolvedor {
     </td>
   </tr>
 </table>
-
-### 🚀 Projetos em Destaque
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=MICApublic&theme=github_dark&title_color=00ff99" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=PowerIONpublic&theme=github_dark&title_color=00ff99" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=Webview-Framework&theme=github_dark&title_color=00ff99" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeitorASM&repo=php-imageboard&theme=github_dark&title_color=00ff99" />
-</div>
-
