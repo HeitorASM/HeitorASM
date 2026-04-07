@@ -1,42 +1,60 @@
 <table>
   <tr>
     <td valign="top">
-      
-### Olá, meu nome é Heitor!
+<div align="center">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=HeitorASM&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="imgs/baner3.jpg">
 
-Eu sou desenvolvedor FullStack
 
-**Minhas_linguagens**
+<h3>Connect with me</h3>
 
-![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godot-engine)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-assun%C3%A7%C3%A3o-97a79b392/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:HeitorAsM@outlook.com)
+</div>
 
-**Game_developement**
+<div align="center">
 
-![Godot](https://img.shields.io/badge/-Godot-333333?style=flat&logo=godot-engine)
+<h2>Sobre min</h2>
+
+Sou um **Desenvolvedor Full-Stack** com uma sólida base em engenharia de software e foco em **Defesa de Redes e Ameaças Cibernéticas**. Minha abordagem une a criação de aplicações escaláveis com o rigor necessário para garantir a segurança dos dados e da infraestrutura.
+
+<br/>
+
+  **Fullstack Developer**  
+  **Back-end**  
+  **Front-end**  
+  **Banco de Dados**
+
+</div>
+
+
+**Tecnologias**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</p>
+
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 
-   </td>
-    <td valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorASM&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117&langs_count=8" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=HeitorASM&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-    </td>
-  </tr>
 </table>
 
 ```js
@@ -52,34 +70,22 @@ class Skills extends Desenvolvedor {
   linguagens = ["HTML, JS, CSS, Python, C#, JAVA, mySQL, PHP"];
 }
 ```
+<div>
+  <h2 align="center"> 
+    <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> 
+  </h2>
 
-### FrameWorks
+  <div align="center"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeitorASM&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+    
+  <br>
+  <br>
 
-<table width="100%" align="center">
-  <tr>
-    <td valign="top" width="30%">
-      <strong>🐘 PHP</strong><br><br>
-      <img src="https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel" /><br>
-      <img src="https://img.shields.io/badge/-Symfony-333333?style=for-the-badge&logo=symfony" /><br>
-      <img src="https://img.shields.io/badge/-CodeIgniter-333333?style=for-the-badge&logo=codeigniter&logoColor=EF4223" />
-    </td>
-    <td valign="top" width="30%">
-      <strong>📜 JavaScript</strong><br><br>
-      <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react" /><br>
-      <img src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=nodedotjs" /><br>
-      <img src="https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=nextdotjs" /><br>
-      <img src="https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vuedotjs" />
-    </td>
-    <td valign="top" width="40%">
-      <strong>🐍 Python</strong><br><br>
-      <img src="https://img.shields.io/badge/-OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-OpenGL-333333?style=for-the-badge&logo=opengl&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy" /><br>
-      <img src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas" /><br>
-      <img src="https://img.shields.io/badge/-Pygame-333333?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Tkinter-333333?style=for-the-badge&logo=python&logoColor=ffd43b" /><br>
-      <img src="https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django" /><br>
-      <img src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask" />
-    </td>
-  </tr>
-</table>
+    
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeitorASM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeitorASM&layout=compact&theme=dark&langs_count=6"/>
+  </div>
+</div>
+
+
