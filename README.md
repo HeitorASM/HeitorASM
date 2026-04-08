@@ -14,9 +14,9 @@
 
 <div align="center">
 
-<h2>Sobre min</h2>
+<h2>Sobre mim</h2>
 
-Sou um **Desenvolvedor Full-Stack** com uma sólida base em engenharia de software e foco em **Defesa de Redes e Ameaças Cibernéticas**. Minha abordagem une a criação de aplicações escaláveis com o rigor necessário para garantir a segurança dos dados e da infraestrutura.
+Estudante de **Desenvolvimento de Sistemas** apaixonado por tecnologia e pela **resolução de problemas complexos**. Sou dedicado ao aprendizado de boas práticas de desenvolvimento e à **experimentação** prática com sistemas de **high** e **low level**, tendo como principais ferramentas de trabalho as linguagens **C**, **PHP** e **Python**.
 
 <br/>
 
@@ -27,9 +27,9 @@ Sou um **Desenvolvedor Full-Stack** com uma sólida base em engenharia de softwa
 
 </div>
 
-
+<div align="center">
 **Tecnologias**
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,10 +39,8 @@ Sou um **Desenvolvedor Full-Stack** com uma sólida base em engenharia de softwa
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
