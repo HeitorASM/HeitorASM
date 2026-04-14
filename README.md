@@ -28,7 +28,9 @@ Estudante de **Desenvolvimento de Sistemas** apaixonado por tecnologia e pela **
 </div>
 
 <div align="center">
+  
 **Tecnologias**
+
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
