@@ -81,10 +81,10 @@ class Skills extends Desenvolvedor {
   <br>
   <br>
 
-    
+  
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HeitorASM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeitorASM&layout=compact&theme=dark&langs_count=6"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HeitorASM&layout=compact&theme=dark&langs_count=6&hide=html,css"/>
   </div>
 </div>
 
