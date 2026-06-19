@@ -57,19 +57,6 @@ Estudante de **Desenvolvimento de Sistemas** apaixonado por tecnologia e pela **
 
 </table>
 
-```js
-import Desenvolvedor from "H.AM.";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Heitor";
-  area = "FullStack";
-  local = "Brasil_Recife";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML, JS, CSS, Python, C#, JAVA, mySQL, PHP"];
-}
-```
 <div>
   <h2 align="center"> 
     <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> 
